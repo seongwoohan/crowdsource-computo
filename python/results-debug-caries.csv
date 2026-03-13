@@ -1,0 +1,2 @@
+model,rhat_max,rhat_lp,min_raters_p,min_votes_p,pi,log_lik,rater_sim_lt_data[1],rater_sim_lt_data[2],rater_sim_lt_data[3],rater_sim_lt_data[4],rater_sim_lt_data[5],votes_sim_lt_data[1],votes_sim_lt_data[2],votes_sim_lt_data[3],votes_sim_lt_data[4],votes_sim_lt_data[5],votes_sim_lt_data[6]
+full,1.01875,1.0019,0.06125,0.0022499999999999742,0.157127,-6797.84,0.1225,0.427,0.36,0.1715,0.517,0.832,0.0215,0.933,0.9955,0.2195,0.0085
